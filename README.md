@@ -3,4 +3,4 @@ Unofficial Poster Template for Technion Computer Science. Copied from the UChica
 
 It looks like this:
 
-![](images/preview.png)
+![](/images/preview.png)
