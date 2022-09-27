@@ -3,4 +3,4 @@ Unofficial Poster Template for Technion Computer Science. Copied from the UChica
 
 It looks like this:
 
-![Latex Rendition Preview](/images/shawarma/preview.png)
+![Latex Rendition Preview](/images/preview.png)
