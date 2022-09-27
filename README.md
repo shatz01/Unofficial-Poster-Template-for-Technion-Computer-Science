@@ -3,6 +3,4 @@ Unofficial Poster Template for Technion Computer Science. Copied from the UChica
 
 It looks like this:
 
-<p float="left">
-  <img src="./images/preview.png"/>
-</p>
+![](./images/preview.png)
